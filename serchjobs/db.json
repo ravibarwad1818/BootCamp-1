@@ -1,0 +1,359 @@
+{
+  "Home": [
+    {
+      "title": "Let's Get You Hired.",
+      "line1": "SearchJobs.com is a job search advice website founded in 2020 by executive recruiter Ravi Barwad to share job search tips and tactics based on direct experience working with hundreds of job seekers, recruiting for multiple Fortune 500 firms, and reviewing thousands of resumes and profiles.",
+      "line2": "We aim to help you feel confident and prepared in your job search so you can land high-paying, in-demand jobs.",
+      "line3": "We show you what it really takes to get hired by top employers with tested strategies, templates, and more.",
+      "line4": "SearchJobs.com has won numerous awards and has been mentioned in Forbes, INC, Business Insider, and more."
+    }
+  ],
+  "Engg": [
+    {
+      "id": 1,
+      "title": "Electrical Engineer",
+      "location": "Nagpur, Maharashtra, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Staffing and Recruiting",
+      "description": "We require Electrical Engineer to oversee and lead the project on M&E services from conceptual stage, design development, contract documentation, authority submissions, site administration to project completion. Has a good understanding of digital technology. BIM and their added values.",
+      "icon": "https://media.licdn.com/dms/image/C560BAQFJ3tt7fTQGUw/company-logo_100_100/0/1584620799215?e=1681344000&v=beta&t=d_2IbGstJSbXMEFYW7WjOU6l1VckXN-s-JSXE6kgLfg"
+    },
+    {
+      "id": 2,
+      "title": "Application Engineer",
+      "location": "Gurgaon, Haryana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Wholesale Building Materials",
+      "description": "Responsible for meeting Application Engineering requirements for covering Enquiry Quotation process, technical selections, compliance statements, Technical submittals, Reply to comments, preparing weekly quotation reports, updating tasks in AE Actions file, enquiry handling follow-up, tracking and updating the system regularly.",
+      "icon": "https://media.licdn.com/dms/image/C560BAQEA7VWB0MPfNg/company-logo_100_100/0/1656589241980?e=1681344000&v=beta&t=KXx6ni-SKJY4uKYycWW80JJaELreCiYGInjxpEb-VEY"
+    },
+    {
+      "id": 3,
+      "title": "Digital Engineering Specialist",
+      "location": "Bengaluru, Karnataka, India (Hybrid)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Professional Services",
+      "description": "We are looking for a dedicated and detail oriented Digital VDC (Virtual Design Construction) Specialist who is eager to continuously engage, can understand the changing environment of the construction and engineering industry as it taps into the digital/virtual world. Has a good understanding of digital technology, BIM and their added value.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQHkmXNBvtMbig/company-logo_100_100/0/1623067910574?e=1681344000&v=beta&t=en1VSQt5gNYj2AQWEz_0_x6tzACobo-BQiNelGi-0GI"
+    },
+    {
+      "id": 4,
+      "title": "Sr. Engineer",
+      "location": "Pune/Pimpri-Chinchwad Area (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "51-200 employees · IT Services and IT Consulting",
+      "description": "Engineering Support for KBR Programs Engineering Support for KBR Programs We are looking for a dedicated and detail oriented Digital VDC (Virtual Design Construction) Specialist who is eager to continuously engage, can understand the changing environment of the construction and engineering industry as it taps into the digital/virtual world.",
+      "icon": "https://media.licdn.com/dms/image/C560BAQHqfKJ_wWocQg/company-logo_100_100/0/1592552735797?e=1681344000&v=beta&t=wPJSN9BE1ldAtJPO0epVuWuTpv6xvPEJxNU3LuqSYLw"
+    },
+    {
+      "id": 5,
+      "title": "Field engineer",
+      "location": "Lucknow, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Airlines and Aviation",
+      "description": "Communicate with clients to determine needs and explain complex issues. Conduct research studies on site. Manage field activities and implement engineering designs. Diagnose construction or machinery problems. Resolve malfunctions or other crises when they arise. Oversee repairs and technical improvements.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQE9stRV5JkCFQ/company-logo_100_100/0/1519856314179?e=1681344000&v=beta&t=VG-S9LYO4-KMKc2CWHiihns0fvpnGexwHN1EDH4w_f4"
+    },
+    {
+      "id": 6,
+      "title": "Design Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Improve existing products and processes. Ensure compliance with the industry’s safety standards. Maintain accurate records. Ensure products are user- and environment-friendly.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQE1nNnhyVBzcg/company-logo_100_100/0/1519865654463?e=1681344000&v=beta&t=xnDGezU3USDM67hWCXWLQ42NI0efX_awprp3H5mP4mg"
+    },
+    {
+      "id": 7,
+      "title": "Substation Engineer (Primary)",
+      "location": "Chennai, Tamil Nadu, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Appliances, Electrical, and Electronics Manufacturing",
+      "description": "Design authority for all engineering activities for assignments on projects classified as Low and Medium engineering complexity. Support Project Manager for any technical issues. Conduct Engineering Project Reviews and report progress and cost-to-complete to Engineering- and Project Manager.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQF833jUJzTnKQ/company-logo_100_100/0/1652770504508?e=1681344000&v=beta&t=lDPGe3cpl3IB0-IJTEAK_cLNJVXE27vFCEuasYjYcYQ"
+    },
+    {
+      "id": 8,
+      "title": "Electrical Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design, control, and implement electrical systems and products. Develop manufacturing processes according to global engineering codes and standards. Manage engineering projects and deliver them on time. Perform quality and performance analysis on new and legacy IT systems. Summarize data and report on test results.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQEJzC_2FYzkrQ/company-logo_100_100/0/1519855874349?e=1681344000&v=beta&t=N2iwSy6KSevrr7-lnOWBSpCARnGT4AGw9Mogxou7OuY"
+    },
+    {
+      "id": 9,
+      "title": "Design Engineer",
+      "location": "Agra, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Maintain accurate records. Ensure products are user- and environment-friendly. Write detailed reports.",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQFIPofjzp1AXA/company-logo_100_100/0/1639584615569?e=1681344000&v=beta&t=8VgvMMEnMtya_8VrB4QCueR3KODeGB4LsutPJMF4g5w"
+    },
+    {
+      "id": 10,
+      "title": "Graduate Engineering Trainee",
+      "location": "Bengaluru, Karnataka, India (On-site)",
+      "time": "Full-time · Internship",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Consumer Services",
+      "description": "Responsible for design and development of mechanical component of elevator System. Responsible for qualification of mechanical components/assemblies at mechanical laboratory and at test hoist way. Responsible to participate and prepare component/Sub system level Test Evaluation Master Plan (TEMP), prepare the Test Plan and carry out testing.",
+      "icon": "https://media.licdn.com/dms/image/C560BAQHJkwGR-Ca9MQ/company-logo_100_100/0/1634048559251?e=1681344000&v=beta&t=KV23tGhmpIWcxqHUkzyjRcCzw1NqYJuKfupz9pH1I2M"
+    }
+  ],
+  "Sales": [
+    {
+      "id": 1,
+      "title": "Service Desk",
+      "location": "Bengaluru, Karnataka, India (On-site)",
+      "time": "Full-time · Mid-Senior level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "11-50 employees · Software Development",
+      "description": "Opens, logs, prioritizes, assigns, and closes calls logged in the IT SD Asks the Customer End User for all relevant information concerning the call made or issue reported by the Customer End User Attempts to resolve the defined inquiries while on the telephone, to meet the agreed upon Service Level for First Call Resolution.",
+      "icon": "https://media.licdn.com/dms/image/C510BAQEXExXaqSxYZA/company-logo_100_100/0/1519915766063?e=1681344000&v=beta&t=A0HYESOPdwPNGr-f8fBAthxlbXo3QHP2HShhAnosPx0"
+    },
+    {
+      "id": 2,
+      "title": "Hiring for sales officer at Nagpur",
+      "location": "Nagpur, Maharashtra, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "201-500 employees · Staffing and Recruiting",
+      "description": "To achieve secondary sales as per the sales targets set on monthly/Qtrly/Annual basis. To achieve collection targets set month-on-month. To visit dealers as per the beat plan set for the day and service. To do marketing initiatives and BTL activities such as canopy activity, poster, banner amp; dangler placements etc.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQEuHCzGagGoTA/company-logo_100_100/0/1544133414403?e=1681344000&v=beta&t=nnwH7OeJ2Uzs1khH5XGg0coTqLllHqeXb9ch9CblVCE"
+    },
+    {
+      "id": 3,
+      "title": "Sales Officer",
+      "location": "Nagpur, Maharashtra, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "11-50 employees · Furniture and Home Furnishings Manufacturing",
+      "description": "Handling inbound calls and emails in a professional manner. Resolving customer inquiries and requests and ensuring strong customer satisfaction. Working with various internal teams to ensure prompt and accurate order processing and delivery. Supporting the sales team key planning and operations tasks to support the overall objective of the business.",
+      "icon": "https://media.licdn.com/dms/image/C510BAQF6sHh7RCywAw/company-logo_100_100/0/1556528310218?e=1681344000&v=beta&t=oLUVYZadg18NfbUHlwCfARIOZ-mhkjlxTpfGmqhk2BU"
+    },
+    {
+      "id": 4,
+      "title": "Sr. Engineer",
+      "location": "Pune/Pimpri-Chinchwad Area (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "51-200 employees · IT Services and IT Consulting",
+      "description": "Engineering Support for KBR Programs Engineering Support for KBR Programs. We are looking for a dedicated and detail oriented Digital VDC (Virtual Design Construction) Specialist who is eager to continuously engage, can understand the changing environment of the construction and engineering industry as it taps into the digital/virtual world.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQHPGAMgqJMBZQ/company-logo_100_100/0/1602668648845?e=1681344000&v=beta&t=1RmTZcQmdZAs0orFoqlaw0-a3nFyj7uY9UNj9aI4dw0"
+    },
+    {
+      "id": 5,
+      "title": "Field engineer",
+      "location": "Lucknow, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Airlines and Aviation",
+      "description": "Communicate with clients to determine needs and explain complex issues. Conduct research studies on site. Manage field activities and implement engineering designs. Diagnose construction or machinery problems. Resolve malfunctions or other crises when they arise. Ensure proper maintenance of onsite equipment",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQEQBi-tByWgLA/company-logo_100_100/0/1622550222062?e=1681344000&v=beta&t=RUNKkoYnCpEn29fBy22AXjO8nDEA68Eo5r1Dtox_THw"
+    },
+    {
+      "id": 6,
+      "title": "Design Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Improve existing products and processes. Ensure compliance with the industry’s safety standards. Find creative design solutions to problems",
+      "icon": "https://media.licdn.com/dms/image/C560BAQFu6rtoyG5_XQ/company-logo_100_100/0/1584379982386?e=1681344000&v=beta&t=twsa43Uo26KSaVykd-Ohn2DbVTaB6ayNeiGJfDRzUt8"
+    },
+    {
+      "id": 7,
+      "title": "Substation Engineer (Primary)",
+      "location": "Chennai, Tamil Nadu, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Appliances, Electrical, and Electronics Manufacturing",
+      "description": "Design authority for all engineering activities for assignments on projects classified as Low and Medium engineering complexity. Support Project Manager for any technical issues. SPOC with customer for Engineering activities of the project. Conduct Engineering Project Reviews and report progress and cost-to-complete to Engineering- and Project Manager",
+      "icon": "https://media.licdn.com/dms/image/C560BAQEFlPA1O-J5lg/company-logo_100_100/0/1622532212384?e=1681344000&v=beta&t=NFrHB24bcIxeG1sdB8S3cnrZmYVN2qMtoTqy7L68KQg"
+    },
+    {
+      "id": 8,
+      "title": "Electrical Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design, control, and implement electrical systems and products. Develop manufacturing processes according to global engineering codes and standards. Manage engineering projects and deliver them on time. Perform quality and performance analysis on new and legacy IT systems. Summarize data and report on test results",
+      "icon": "https://media.licdn.com/dms/image/C560BAQFKSFzKK-YT1g/company-logo_100_100/0/1656017261913?e=1681344000&v=beta&t=Tcpkg_h0q_fdynPLCPn9QTE3nwQ-tUXgjDqFHHbiC4s"
+    },
+    {
+      "id": 9,
+      "title": "Design Engineer",
+      "location": "Agra, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Improve existing products and processes. Ensure compliance with the industry’s safety standards. Ensure products are user- and environment-friendly. Write detailed reports",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQHYHP4aNBY_cw/company-logo_100_100/0/1625549057579?e=1681344000&v=beta&t=4nUHPwuWXrr5eUT0MjEtXAj-lPvLXdtvJsgsSzHs6eI"
+    },
+    {
+      "id": 10,
+      "title": "Graduate Engineering Trainee",
+      "location": "Bengaluru, Karnataka, India (On-site)",
+      "time": "Full-time · Internship",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Consumer Services",
+      "description": "Responsible for design and development of mechanical component of elevator System. Responsible for qualification of mechanical components/assemblies at mechanical laboratory and at test hoist way. Responsible to participate and prepare component/Sub system level Test Evaluation Master Plan (TEMP), prepare the Test Plan and carry out testing.",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQHIlmawYo738A/company-logo_100_100/0/1519904211967?e=1681344000&v=beta&t=9vCyZn_lcnmwGCqXOswHvNBwhd7K0QyV5sKbsTROWE4"
+    }
+  ],
+  "Marketing": [
+    {
+      "id": 1,
+      "title": "Search Engine Marketing Specialist",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "51-200 employees",
+      "description": "The Search Engine Marketing (SEM) Specialist will manage all paid search campaigns on Google, Yahoo and Bing, as well as other search and display marketing engines. A successful SEM Specialist will effectively manage the paid search budget and work with the SEO and Marketing team in order to maximize ROI, drive traffic, and customers.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQHeGcfNWlKWlQ/company-logo_100_100/0/1672541597062?e=1681344000&v=beta&t=ViJ-x4P1ficwMzpKQL5doLpEzlLXxdUtq_bC1dFeHYs"
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing Executive",
+      "location": "Bengaluru, Karnataka, India (On-site)",
+      "time": "Full-time · Associate",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Wholesale Building Materials",
+      "description": "Co-ordinate with internal teams, agency and influencers to facilitate content for social media marketing including content calendar, videos, creative graphics, etc. Manage influencer marketing program by researching, identifying and coordinating with influencers and measuring their performance.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQEySmhy-4ojTg/company-logo_100_100/0/1625220316788?e=1681344000&v=beta&t=U_TKWbLCye_Knj4pd7jG1XaHNRdr9HgkXjPsDqvi1ng"
+    },
+    {
+      "id": 3,
+      "title": "Web Research / Lead Generation",
+      "location": "Ahmedabad, Gujarat, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "51-200 employees · Professional Services",
+      "description": "Research and qualify potential leads relevant to our business through various online and offline channels.Utilize creative methods to engage with leads to generate interest in our services. Communicate with the prospect and schedule a call between the prospect and the sales team.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQFlxk1knhFiGg/company-logo_100_100/0/1519952444426?e=1681344000&v=beta&t=WAehbKvL2hNmd43JDrw5KF7Shrm6P1U0P70u7FTb9jU"
+    },
+    {
+      "id": 4,
+      "title": "Sr. Engineer",
+      "location": "Pune/Pimpri-Chinchwad Area (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "51-200 employees · IT Services and IT Consulting",
+      "description": "Engineering Support for KBR Programs Engineering Support for KBR Programs. We are looking for a dedicated and detail oriented Digital VDC (Virtual Design Construction) Specialist who is eager to continuously engage, can understand the changing environment of the construction and engineering industry as it taps into the digital/virtual world.",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQGxLz-p69oYeA/company-logo_100_100/0/1601123408311?e=1681344000&v=beta&t=x5x5GmF4GYn1LIq2pCJYj030s1hP1aFIUtuOhBfSavs"
+    },
+    {
+      "id": 5,
+      "title": "Field engineer",
+      "location": "Lucknow, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Airlines and Aviation",
+      "description": "Communicate with clients to determine needs and explain complex issues. Conduct research studies on site. Manage field activities and implement engineering designs. Diagnose construction or machinery problems. Resolve malfunctions or other crises when they arise. Ensure proper maintenance of onsite equipment",
+      "icon": "https://media.licdn.com/dms/image/C560BAQHdJqqo7Zh-bw/company-logo_100_100/0/1519856605126?e=1681344000&v=beta&t=SCwtCbvAZCeTse-dgPB-hU6BI_QAHp4GaN4DifxIZoI"
+    },
+    {
+      "id": 6,
+      "title": "Design Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Improve existing products and processes. Ensure compliance with the industry’s safety standards. Write detailed reports. Find creative design solutions to problems",
+      "icon": "https://media.licdn.com/dms/image/C510BAQFhNmpzxXYs-g/company-logo_100_100/0/1536393866266?e=1681344000&v=beta&t=W5ynfFezBtp59P2cmFCi9U-KN3xgkz8wxI63KGE5kjo"
+    },
+    {
+      "id": 7,
+      "title": "Substation Engineer (Primary)",
+      "location": "Chennai, Tamil Nadu, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Appliances, Electrical, and Electronics Manufacturing",
+      "description": "Design authority for all engineering activities for assignments on projects classified as Low and Medium engineering complexity. Support Project Manager for any technical issues. SPOC with customer for Engineering activities of the project.",
+      "icon": "https://media.licdn.com/dms/image/C4D0BAQE9stRV5JkCFQ/company-logo_100_100/0/1519856314179?e=1681344000&v=beta&t=VG-S9LYO4-KMKc2CWHiihns0fvpnGexwHN1EDH4w_f4"
+    },
+    {
+      "id": 8,
+      "title": "Electrical Engineer",
+      "location": "Hyderabad, Telangana, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design, control, and implement electrical systems and products. Develop manufacturing processes according to global engineering codes and standards. Manage engineering projects and deliver them on time. Define customer needs and requirements. Perform quality and performance analysis on new and legacy IT systems. Summarize data and report on test results",
+      "icon": "https://media.licdn.com/dms/image/C560BAQF-yBVBo_-n8A/company-logo_100_100/0/1565763654779?e=1681344000&v=beta&t=3Mgi_rQj08t4Ho_A6LQoxORKTsblwTfS5WZe2x6gwmA"
+    },
+    {
+      "id": 9,
+      "title": "Design Engineer",
+      "location": "Agra, Uttar Pradesh, India (On-site)",
+      "time": "Full-time · Entry level",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "1-10 employees · Maritime Transportation",
+      "description": "Design new engineering products and processes. Craft models and drawings of products using CAD. Analyze prototype data and retest if needed. Research new product ideas and methods. Improve existing products and processes. Ensure compliance with the industry’s safety standards. Maintain accurate records. Ensure products are user- and environment-friendly.",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQF0U846FN-wUg/company-logo_100_100/0/1580384523167?e=1681344000&v=beta&t=zE4pAB2lBMnm6mMtgJdYco1oLeDffxbMLNBRWETNvO0"
+    },
+    {
+      "id": 10,
+      "title": "Graduate Engineering Trainee",
+      "location": "Bengaluru, Karnataka, India (On-site)",
+      "time": "Full-time · Internship",
+      "salary": "Rs 3-5 lac/Yr",
+      "experience": "0-5 years",
+      "vacancy": "10,001+ employees · Consumer Services",
+      "description": "Responsible for design and development of mechanical component of elevator System. Responsible for qualification of mechanical components/assemblies at mechanical laboratory and at test hoist way. Responsible to participate and prepare component/Sub system level Test Evaluation Master Plan (TEMP), prepare the Test Plan and carry out testing.",
+      "icon": "https://media.licdn.com/dms/image/C4E0BAQFN7ZGRjNcgeA/company-logo_100_100/0/1656681489088?e=1681344000&v=beta&t=EOGcncHkJLhJ4JnXJ9zaZO-vh73AoN3NvKqrbspQpFE"
+    }
+  ],
+  "Contact": [
+    {
+      "title": "Contact Us",
+      "line1": "Thank you for your interest in contacting us. Please use the following email address to get in touch:",
+      "line2": "ravi@searchjobs.com",
+      "line3": "Note that we are *not* accepting guest contributors at the moment and will not respond to inquiries of this type.",
+      "line4": "SearchJobs.com,",
+      "line5": "S.V.S. Rd, Century Bazaar,",
+      "line6": "Mumbai,",
+      "line7": "Maharashtra, PC 400025 "
+    }
+  ]
+}

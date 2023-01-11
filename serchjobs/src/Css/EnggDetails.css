@@ -1,0 +1,19 @@
+.app-bg {
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.container {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 30px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  margin: 20px auto;
+}
+
+.icon{
+  display: flex;
+  flex-direction: row;
+}
